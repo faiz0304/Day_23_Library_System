@@ -1,0 +1,46 @@
+Choose from the menu:
+
+1 → Show Books
+2 → Add Book
+3 → Lend Book
+4 → Return Book
+5 → Exit
+
+The program maintains an in-memory record (lend_data) of issued books with their borrower names.
+
+Example Output
+====== Library Menu ======
+1. Show Books of Library
+2. Add Book to Library
+3. Lend Book from Library
+4. Return Book to Library
+5. Exit from Library
+Enter Your Choice: 1
+
+Available Books:
+ - Python Basics
+ - C++ OOP
+ - Data Science
+ - AI Fundamentals
+
+Enter Your Choice: 3
+Enter Book Name to Lend: Python Basics
+Enter Your Name: Faiz
+'Python Basics' has been issued to Faiz.
+
+Enter Your Choice: 4
+Enter Book Name to Return: Python Basics
+'Python Basics' has been returned successfully.
+
+Enter Your Choice: 5
+Thanks for visiting our library!
+
+Learning Outcome
+
+By doing this project you will:
+
+Strengthen your grip on OOP concepts
+
+Practice dictionary-based data tracking
+
+Design interactive CLI menus

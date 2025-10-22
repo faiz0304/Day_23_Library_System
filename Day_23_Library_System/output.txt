@@ -1,0 +1,29 @@
+====== Library Menu ======
+1. Show Books of Library
+2. Add Book to Library
+3. Lend Book from Library
+4. Return Book to Library
+5. Exit from Library
+Enter Your Choice: 1
+
+Available Books:
+ - Python Basics
+ - C++ OOP
+ - Data Science
+ - AI Fundamentals
+
+Enter Your Choice: 3
+Enter Book Name to Lend: Python Basics
+Enter Your Name: Faiz
+'Python Basics' has been issued to Faiz.
+
+Enter Your Choice: 2
+Enter Book Name to Add: Machine Learning
+'Machine Learning' added successfully.
+
+Enter Your Choice: 4
+Enter Book Name to Return: Python Basics
+'Python Basics' has been returned successfully.
+
+Enter Your Choice: 5
+Thanks for visiting our library!

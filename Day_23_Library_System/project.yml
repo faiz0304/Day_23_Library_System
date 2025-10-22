@@ -1,0 +1,28 @@
+
+---
+
+### **File 2 – `project.yml`**
+```yaml
+project:
+  name: "Library System (Book Issue/Return using OOP)"
+  day: 23
+  week: 4
+  author: "Faiz Ur Rehman Ashrafi"
+  language: "Python"
+  difficulty: "Easy to Intermediate"
+  version: "1.0"
+  objectives:
+    - Display all books
+    - Add new books
+    - Issue (lend) books
+    - Return issued books
+  concepts_used:
+    - Classes and Objects
+    - Dictionaries
+    - Type Hinting
+    - Loops and Conditionals
+  files:
+    - "01_library_system.py"
+    - "README.md"
+    - "project.yml"
+    - "output.txt"
